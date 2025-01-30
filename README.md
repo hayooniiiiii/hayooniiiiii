@@ -65,14 +65,16 @@
 
 ---
 
-## ✨ Fun Facts  
+## ✨ My Philosophy  
 
-> "코딩은 단순 작업이 아닌, 세상을 변화시키는 도구입니다.  
-> 함께 성장해요!"
+> **"Smooth seas do not make skillful sailors."**  
+> _잔잔한 바다는 유능한 뱃사람을 만들지 않는다._  
+>  
+> 시련은 나를 단련시키는 과정이며,  
+> 어떤 어려움도 성장의 밑거름으로 삼는다.  
+> 과거를 후회하기보다, 더 나은 미래를 위해  
+> 기꺼이 도전을 맞이한다.
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quotes" />
-</div>
 
 ---
 
