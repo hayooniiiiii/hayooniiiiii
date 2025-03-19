@@ -10,10 +10,10 @@
 
 ## 👋 About Me  
 
-Hi there! I'm **Hayoon**, a developer who dreams of creating a world where **humans and computers communicate naturally**.  
-I love solving problems and building experiences that bring technology closer to people.  
-With a passion for continuous learning and growth, I aim to make a positive impact through software and innovation.  
-Let’s connect technology with people, one line of code at a time! 🚀
+Hi there! I'm **Hayooni**, a developer who dreams of building a world where **humans and computers communicate seamlessly**.  
+I’m passionate about creating meaningful solutions that bridge the gap between people and technology.  
+Always ready to challenge myself, learn new things, and grow as a developer.  
+Let’s make tech more human-centered together! 🚀
 
 ---
 
@@ -31,6 +31,11 @@ Let’s connect technology with people, one line of code at a time! 🚀
 <div align="center">
   <img src="https://img.shields.io/badge/React-FCD1D1?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring-ABD9FF?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
+
+### 🗄️ Database
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-F6D6AD?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### 🔌 Hardware & IoT
@@ -53,8 +58,13 @@ Let’s connect technology with people, one line of code at a time! 🚀
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+### 💻 IDE & Development Tools
+<div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-99DDCC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
 ---
@@ -62,7 +72,7 @@ Let’s connect technology with people, one line of code at a time! 🚀
 ## 📜 Certifications  
 
 <div align="center">
-  🏆 <strong>Advanced Computer Literacy (Level 1)</strong> &nbsp;|&nbsp; 🏆 <strong>Network Administrator (Level 2)</strong> &nbsp;|&nbsp; 🏆 <strong>SQL Developer (SQLD)</strong> &nbsp;|&nbsp; 🏆 <strong>NCP (Naver Cloud Platform)</strong>
+  🏆 <strong>컴퓨터 활용 능력 1급</strong> &nbsp;|&nbsp; 🏆 <strong>네트워크 관리자 2급</strong> &nbsp;|&nbsp; 🏆 <strong>SQL Developer (SQLD)</strong> &nbsp;|&nbsp; 🏆 <strong>NCP (Naver Cloud Platform)</strong>
 </div>
 
 ---
